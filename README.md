@@ -1,2 +1,3 @@
 # RL-StudyNotes
-强化学习学习笔记
+
+学习内容来自[动手学强化学习](https://hrl.boyuai.com)
